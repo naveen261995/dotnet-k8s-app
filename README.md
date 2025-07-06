@@ -1,2 +1,2 @@
 # dotnet-k8s-app
-Deploy dotnet app in AKS
+Deploy dotnet app in AKS by naveen
